@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.41-1",
+    "dotenv": "^16.4.7",
+    "solc": "^0.8.28",
+    "web3": "^4.16.0"
+  }
+}
